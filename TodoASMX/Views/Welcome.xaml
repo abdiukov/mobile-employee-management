@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TodoASMX.Views.Welcome" NavigationPage.HasNavigationBar="false">
+
+    <ContentPage.Resources>
+        <Style TargetType="Label">
+            <Setter Property="FontFamily" Value="'Trebuchet MS Bold', Calibri, Arial"></Setter>
+            <Setter Property="FontSize" Value="20"></Setter>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="BackgroundColor" Value="#3b3b3b"></Setter>
+            <Setter Property="TextColor" Value="#fff"></Setter>
+            <Setter Property="FontFamily" Value="'Trebuchet MS', Calibri, Arial"></Setter>
+        </Style>
+    </ContentPage.Resources>
+
+
+    <ScrollView VerticalScrollBarVisibility="Always">
+        <StackLayout VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand">
+            <Button Text="Enter the management system" Clicked="OnNavigateMainMenu" />
+            <Button Text="Help" Clicked="OnShowHelp" />
+          
+            <Label x:Name="Help" IsVisible="false" Text="
+To add an employee&#10;
+1.	Upon starting the application, tap on the 'ENTER THE MANAGEMENT SYSTEM' button&#x0a;
+2.	Tap on the 'plus' button on top left&#x0a;
+3.	Enter in the details.&#x0a;
+4.	Click the 'Save' button.&#x0a;
+To delete existing employee details&#x0a;
+1.	Upon starting the application, tap on the 'ENTER THE MANAGEMENT SYSTEM' button&#x0a;
+2.	Tap on the employee you wish to delete (from the table).&#x0a;
+3.	New page is opened. Scroll to the button&#x0a;
+4.	Click the 'Delete' button.&#x0a;
+To edit existing employee details&#x0a;
+1.	Upon starting the application, tap on the 'ENTER THE MANAGEMENT SYSTEM' button&#x0a;
+2.	Tap on the employee you wish to edit (from the table).&#x0a;
+3.	New page is opened. Enter in the details you wish to change into the boxes. Then scroll to the button.&#x0a;
+4.	Click the 'Save' button.&#x0a;
+To see existing employee details&#x0a;
+1.	Upon starting the application, tap on the 'ENTER THE MANAGEMENT SYSTEM' button&#x0a;
+2.	Tap on the employee you wish to see all details for (from the table).&#x0a;
+3.	New page is opened, there you can see employee details.
+                   "/>
+            <StackLayout Orientation="Horizontal">
+                <Button x:Name="Btn_Default_Theme" Clicked="Btn_Default_Theme_Clicked"
+    WidthRequest      ="80"
+    HeightRequest     ="80"
+    CornerRadius      ="40"
+    BackgroundColor   ="#D9D9D9"
+                        BorderColor="Black"/>
+                <Button x:Name="Btn_Orange_Theme" Clicked="Btn_Orange_Theme_Clicked"
+    WidthRequest      ="80"
+    HeightRequest     ="80"
+    CornerRadius      ="40"
+    BackgroundColor   ="#cb6d4f"
+                        BorderColor="Black"/>
+
+            </StackLayout>
+        </StackLayout>
+
+    </ScrollView>
+
+</ContentPage>

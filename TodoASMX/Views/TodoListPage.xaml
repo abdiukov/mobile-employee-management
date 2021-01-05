@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="TodoASMX.TodoListPage" Title="Select the employee" >
+    <ContentPage.Resources>
+        <Style TargetType="Label">
+            <Setter Property="FontFamily" Value="'Trebuchet MS Bold', Calibri, Arial"></Setter>
+            <Setter Property="FontSize" Value="20"></Setter>
+        </Style>
+    </ContentPage.Resources>
+
+    <ContentPage.ToolbarItems>
+        <ToolbarItem Text="+" Clicked="OnAddItemClicked">
+            <ToolbarItem.IconImageSource>
+                <OnPlatform x:TypeArguments="ImageSource">
+                    <On Platform="Android, UWP" Value="plus.png" />
+                </OnPlatform>
+            </ToolbarItem.IconImageSource>
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
+    
+    <StackLayout VerticalOptions="StartAndExpand">
+        <ScrollView x:Name="scroll" VerticalScrollBarVisibility="Always" >
+            <ListView x:Name="listView" ItemSelected="OnItemSelected" Margin="20" RowHeight="100" >
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <StackLayout HorizontalOptions="Fill" Orientation="Horizontal">
+                                <Grid>
+                                <Label Text="{Binding Name}" HorizontalTextAlignment="Start"  VerticalTextAlignment="Start" />
+                                <Label Text="Department:    " HorizontalTextAlignment="Start" VerticalTextAlignment="Center" />
+                                <Label Text="{Binding Path=Department}" HorizontalTextAlignment="End" VerticalTextAlignment="Center" />
+                                </Grid>
+                            </StackLayout>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </ScrollView>
+        <Image Source="logo" HeightRequest="150"/>
+    </StackLayout>
+</ContentPage>

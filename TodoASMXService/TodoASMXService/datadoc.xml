@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<datas>
+
+  <data id="0">
+    <name>General</name>
+  </data>
+  <data id="1">
+    <name>Information Technology</name>
+  </data>
+
+  <data id="2">
+    <name>Accounting</name>
+  </data>
+
+  <data id="3">
+    <name>Marketing</name>
+  </data>
+
+  <data id="4">
+    <name>Human Resources</name>
+  </data>
+
+</datas>

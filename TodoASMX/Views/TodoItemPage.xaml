@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
+			 x:Class="TodoASMX.TodoItemPage"
+			 Title="Back to Main Menu">
+    
+    <ContentPage.Resources>
+        <Style TargetType="Label">
+            <Setter Property="FontFamily" Value="'Trebuchet MS Bold', Calibri, Arial"></Setter>
+            <Setter Property="FontSize" Value="20"></Setter>
+        </Style>
+        <Style TargetType="Entry">
+            <Setter Property="FontFamily" Value="'Trebuchet MS', Calibri, Arial"></Setter>
+            <Setter Property="FontSize" Value="20"></Setter>
+        </Style>
+        <Style TargetType="Button">
+            <Setter Property="BackgroundColor" Value="#9f1a1d"></Setter>
+            <Setter Property="TextColor" Value="#fff"></Setter>
+            <Setter Property="FontFamily" Value="'Trebuchet MS', Calibri, Arial"></Setter>
+        </Style>
+    </ContentPage.Resources>
+
+    <ScrollView x:Name="scroll" VerticalScrollBarVisibility="Always">
+        <StackLayout VerticalOptions="StartAndExpand" MinimumHeightRequest="30">
+        <Label Text="Name" />
+        <Entry x:Name="nameEntry" Text="{Binding Path=Name}"/>
+        <Label Text="Phone Number" />
+        <Entry x:Name="PhoneEntry" Text="{Binding Path=Phone}"/>
+        <Label Text="Street" />
+        <Entry x:Name="StreetEntry" Text="{Binding Path=Street}" />
+        <Label Text="City"/>
+        <Entry x:Name="CityEntry" Text="{Binding Path=City}" />
+        <Label Text="State"/>
+        <Entry x:Name="StateEntry" Text="{Binding Path=State}" />
+        <Label Text="Zip Code"/>
+        <Entry x:Name="ZipCodeEntry" Text="{Binding Path=ZipCode}" />
+        <Label Text="Department"/>
+        <Entry x:Name="DepartmentEntry" Text="{Binding Path=Department}" />
+        <Label Text="Country"/>
+        <Entry x:Name="CountryEntry" Text="{Binding Path=Country}" />
+
+            <Button Text="Save" Margin="0,50,0,0" Clicked="OnSaveActivated" />
+        <Button x:Name="delete_button" Text="Delete" Clicked="OnDeleteActivated" />
+    </StackLayout>
+    </ScrollView>
+</ContentPage>

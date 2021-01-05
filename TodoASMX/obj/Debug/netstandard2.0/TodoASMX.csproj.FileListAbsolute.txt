@@ -1,0 +1,87 @@
+D:\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+D:\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+D:\Xamarin_Forms___TodoASMX\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csprojAssemblyReference.cache
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+D:\Xamarin_Forms___TodoASMX\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+C:\Xamarin\MobileAssessment\StaffManager\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+C:\Xamarin\MobileAssessment\StaffManager\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+C:\Xamarin\MobileAssessment\StaffManager\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+C:\Xamarin\MobileAssessment\StaffManager\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csprojAssemblyReference.cache
+C:\Xamarin\MobileAssessment\StaffManager\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Xamarin\MobileAssessment\StaffManager\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Xamarin\MobileAssessment\StaffManager\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+C:\Xamarin\MobileAssessment\StaffManager\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+C:\Xamarin\MobileAssessment\StaffManager\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+C:\Xamarin\MobileAssessment\StaffManager\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\MobileAssessment\StaffManager\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+C:\Xamarin\MobileAssessment\StaffManager\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+C:\Xamarin\MobileAssessment\StaffManager - operational\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+C:\Xamarin\MobileAssessment\StaffManager - operational\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+C:\Xamarin\MobileAssessment\StaffManager - operational\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+C:\Xamarin\MobileAssessment\StaffManager - operational\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Xamarin\MobileAssessment\StaffManager - operational\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Xamarin\MobileAssessment\StaffManager - operational\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+C:\Xamarin\MobileAssessment\StaffManager - operational\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+C:\Xamarin\MobileAssessment\StaffManager - operational\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+C:\Xamarin\MobileAssessment\StaffManager - operational\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\MobileAssessment\StaffManager - operational\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+C:\Xamarin\MobileAssessment\StaffManager - operational\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+C:\Xamarin\MobileAssessment\StaffManager - operational\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csprojAssemblyReference.cache
+C:\Xamarin\MobileAssessment\StaffManagerv2\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+C:\Xamarin\MobileAssessment\StaffManagerv2\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+C:\Xamarin\MobileAssessment\StaffManagerv2\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+C:\Xamarin\MobileAssessment\StaffManagerv2\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csprojAssemblyReference.cache
+C:\Xamarin\MobileAssessment\StaffManagerv2\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Xamarin\MobileAssessment\StaffManagerv2\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Xamarin\MobileAssessment\StaffManagerv2\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+C:\Xamarin\MobileAssessment\StaffManagerv2\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+C:\Xamarin\MobileAssessment\StaffManagerv2\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+C:\Xamarin\MobileAssessment\StaffManagerv2\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\MobileAssessment\StaffManagerv2\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+C:\Xamarin\MobileAssessment\StaffManagerv2\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csprojAssemblyReference.cache
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good\TodoASMX\obj\Debug\netstandard2.0\Views\Welcome.xaml.g.cs
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good - Copy (2)\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good - Copy (2)\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good - Copy (2)\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good - Copy (2)\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csprojAssemblyReference.cache
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good - Copy (2)\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good - Copy (2)\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good - Copy (2)\TodoASMX\obj\Debug\netstandard2.0\Views\Welcome.xaml.g.cs
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good - Copy (2)\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good - Copy (2)\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good - Copy (2)\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good - Copy (2)\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good - Copy (2)\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+C:\Xamarin\MobileAssessment\StaffManagerv2 -good - Copy (2)\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csprojAssemblyReference.cache
+C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\obj\Debug\netstandard2.0\Views\Welcome.xaml.g.cs
+C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
