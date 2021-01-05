@@ -517,11 +517,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Cert 4 TAFE\\Cert IV Assessments\\Assessments that are done\\Mobile_MajorAssessment_done_until_roleplay_Mon\\Submission2\\Application\\TodoASMX\\TodoASMX.csproj",
+      "projectUniqueName": "C:\\Users\\Ash\\Desktop\\skills\\xamarin-aspnet-crud\\TodoASMX\\TodoASMX.csproj",
       "projectName": "TodoASMX",
-      "projectPath": "C:\\Cert 4 TAFE\\Cert IV Assessments\\Assessments that are done\\Mobile_MajorAssessment_done_until_roleplay_Mon\\Submission2\\Application\\TodoASMX\\TodoASMX.csproj",
+      "projectPath": "C:\\Users\\Ash\\Desktop\\skills\\xamarin-aspnet-crud\\TodoASMX\\TodoASMX.csproj",
       "packagesPath": "C:\\Users\\Ash\\.nuget\\packages\\",
-      "outputPath": "C:\\Cert 4 TAFE\\Cert IV Assessments\\Assessments that are done\\Mobile_MajorAssessment_done_until_roleplay_Mon\\Submission2\\Application\\TodoASMX\\obj\\",
+      "outputPath": "C:\\Users\\Ash\\Desktop\\skills\\xamarin-aspnet-crud\\TodoASMX\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"

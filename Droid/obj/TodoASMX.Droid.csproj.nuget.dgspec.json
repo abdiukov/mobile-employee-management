@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Cert 4 TAFE\\Cert IV Assessments\\Assessments that are done\\Mobile_MajorAssessment_done_until_roleplay_Mon\\Submission2\\Application\\Droid\\TodoASMX.Droid.csproj": {}
+    "C:\\Users\\Ash\\Desktop\\skills\\xamarin-aspnet-crud\\Droid\\TodoASMX.Droid.csproj": {}
   },
   "projects": {
-    "C:\\Cert 4 TAFE\\Cert IV Assessments\\Assessments that are done\\Mobile_MajorAssessment_done_until_roleplay_Mon\\Submission2\\Application\\Droid\\TodoASMX.Droid.csproj": {
+    "C:\\Users\\Ash\\Desktop\\skills\\xamarin-aspnet-crud\\Droid\\TodoASMX.Droid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cert 4 TAFE\\Cert IV Assessments\\Assessments that are done\\Mobile_MajorAssessment_done_until_roleplay_Mon\\Submission2\\Application\\Droid\\TodoASMX.Droid.csproj",
+        "projectUniqueName": "C:\\Users\\Ash\\Desktop\\skills\\xamarin-aspnet-crud\\Droid\\TodoASMX.Droid.csproj",
         "projectName": "TodoASMX.Droid",
-        "projectPath": "C:\\Cert 4 TAFE\\Cert IV Assessments\\Assessments that are done\\Mobile_MajorAssessment_done_until_roleplay_Mon\\Submission2\\Application\\Droid\\TodoASMX.Droid.csproj",
+        "projectPath": "C:\\Users\\Ash\\Desktop\\skills\\xamarin-aspnet-crud\\Droid\\TodoASMX.Droid.csproj",
         "packagesPath": "C:\\Users\\Ash\\.nuget\\packages\\",
-        "outputPath": "C:\\Cert 4 TAFE\\Cert IV Assessments\\Assessments that are done\\Mobile_MajorAssessment_done_until_roleplay_Mon\\Submission2\\Application\\Droid\\obj\\",
+        "outputPath": "C:\\Users\\Ash\\Desktop\\skills\\xamarin-aspnet-crud\\Droid\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Cert 4 TAFE\\Cert IV Assessments\\Assessments that are done\\Mobile_MajorAssessment_done_until_roleplay_Mon\\Submission2\\Application\\TodoASMX\\TodoASMX.csproj": {
-                "projectPath": "C:\\Cert 4 TAFE\\Cert IV Assessments\\Assessments that are done\\Mobile_MajorAssessment_done_until_roleplay_Mon\\Submission2\\Application\\TodoASMX\\TodoASMX.csproj"
+              "C:\\Users\\Ash\\Desktop\\skills\\xamarin-aspnet-crud\\TodoASMX\\TodoASMX.csproj": {
+                "projectPath": "C:\\Users\\Ash\\Desktop\\skills\\xamarin-aspnet-crud\\TodoASMX\\TodoASMX.csproj"
               }
             }
           }
@@ -50,14 +50,14 @@
         }
       }
     },
-    "C:\\Cert 4 TAFE\\Cert IV Assessments\\Assessments that are done\\Mobile_MajorAssessment_done_until_roleplay_Mon\\Submission2\\Application\\TodoASMX\\TodoASMX.csproj": {
+    "C:\\Users\\Ash\\Desktop\\skills\\xamarin-aspnet-crud\\TodoASMX\\TodoASMX.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Cert 4 TAFE\\Cert IV Assessments\\Assessments that are done\\Mobile_MajorAssessment_done_until_roleplay_Mon\\Submission2\\Application\\TodoASMX\\TodoASMX.csproj",
+        "projectUniqueName": "C:\\Users\\Ash\\Desktop\\skills\\xamarin-aspnet-crud\\TodoASMX\\TodoASMX.csproj",
         "projectName": "TodoASMX",
-        "projectPath": "C:\\Cert 4 TAFE\\Cert IV Assessments\\Assessments that are done\\Mobile_MajorAssessment_done_until_roleplay_Mon\\Submission2\\Application\\TodoASMX\\TodoASMX.csproj",
+        "projectPath": "C:\\Users\\Ash\\Desktop\\skills\\xamarin-aspnet-crud\\TodoASMX\\TodoASMX.csproj",
         "packagesPath": "C:\\Users\\Ash\\.nuget\\packages\\",
-        "outputPath": "C:\\Cert 4 TAFE\\Cert IV Assessments\\Assessments that are done\\Mobile_MajorAssessment_done_until_roleplay_Mon\\Submission2\\Application\\TodoASMX\\obj\\",
+        "outputPath": "C:\\Users\\Ash\\Desktop\\skills\\xamarin-aspnet-crud\\TodoASMX\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

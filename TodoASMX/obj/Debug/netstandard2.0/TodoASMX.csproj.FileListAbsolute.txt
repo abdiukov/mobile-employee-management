@@ -85,3 +85,16 @@ C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\obj\Debug\netstandard2.0\TodoA
 C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
 C:\Xamarin\MobileAssessment\FinalProduct\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.deps.json
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.dll
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMX\bin\Debug\netstandard2.0\TodoASMX.pdb
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csprojAssemblyReference.cache
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMX\obj\Debug\netstandard2.0\Views\TodoItemPage.xaml.g.cs
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMX\obj\Debug\netstandard2.0\Views\TodoListPage.xaml.g.cs
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMX\obj\Debug\netstandard2.0\Views\Welcome.xaml.g.cs
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfoInputs.cache
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.AssemblyInfo.cs
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.csproj.CoreCompileInputs.cache
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMX\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.dll
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMX\obj\Debug\netstandard2.0\TodoASMX.pdb
