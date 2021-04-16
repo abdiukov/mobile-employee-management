@@ -1,0 +1,7 @@
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll.config
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMXService\TodoASMXService\bin\TodoASMXService.dll
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMXService\TodoASMXService\bin\TodoASMXService.pdb
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csprojAssemblyReference.cache
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.csproj.CoreCompileInputs.cache
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.dll
+C:\Users\Ash\Desktop\skills\xamarin-aspnet-crud\TodoASMXService\TodoASMXService\obj\Debug\TodoASMXService.pdb
